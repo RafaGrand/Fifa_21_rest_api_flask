@@ -15,7 +15,7 @@ def populate_database():
     try:
         connection = pymysql.connect(host='localhost',
                                     user='root',
-                                    password='SocialInc123',
+                                    password='your_password',
                                     db='football_team')
 
         for value in data['items'] :
