@@ -38,3 +38,7 @@ Response:
 
 #Run:
 python /src/app.py
+
+##Split array algortihm
+run: 
+python split_array.py
