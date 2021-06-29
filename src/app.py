@@ -5,7 +5,7 @@ from db_script import populate_database
 
 app = Flask(__name__)
 
-app.config['SQLALCHEMY_DATABASE_URI']='mysql+pymysql://root:password@localhost/football_team'
+app.config['SQLALCHEMY_DATABASE_URI']='mysql+pymysql://root:your_password@localhost/football_team'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
 
 db = SQLAlchemy(app)
