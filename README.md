@@ -1,7 +1,7 @@
 # Fifa_21_rest_api_flask
 A simple Rest API
 
-Just export the .sql to your local machine
+Just export the .sql to your local machine and replace your SQL password in the DB connection
 
 Could initialize the venv with the dependencies or install packages with requirements.txt 
 
