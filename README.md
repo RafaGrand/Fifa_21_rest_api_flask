@@ -35,3 +35,6 @@ Request example:
 Response:
 {"name": "Cristiano Ronaldo", "position": "ST", "nation": "Portugal", "team" : "Juventus"},
 ...
+
+#Run:
+python /src/app.py
